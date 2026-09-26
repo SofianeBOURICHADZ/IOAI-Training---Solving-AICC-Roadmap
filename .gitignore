@@ -1,3 +1,5 @@
 *.csv
 *.json
 catboost_info/
+*.zip
+*.rar
